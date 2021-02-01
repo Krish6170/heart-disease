@@ -28,5 +28,7 @@ It will return two models
 
 
 prints base accuracy scores of k-neighbours,logistic regressor,randomforest
+
 prints the best params of the the logostic regressor and randomforest after tuning 
+
 prints classification report at the end
