@@ -21,6 +21,12 @@ Only 14 attributes used:
 
 
 Heart_disease_milestone.py is the SOLUTION
-it will return two models 
+
+It will return two models 
 1. randomforest
 2. logistic regression
+
+
+prints base accuracy scores of k-neighbours,logistic regressor,randomforest
+prints the best params of the the logostic regressor and randomforest after tuning 
+prints classification report at the end
